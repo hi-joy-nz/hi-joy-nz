@@ -15,9 +15,9 @@
   - Legacy text-based commands
   - A spawn and collection system
     - Users spawn and collect a variety of over 300 unique spawns <br>
-    ![Detailed collection command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/JoyBot%20examples/Detailed%20spawn%20collection.png)
+    ![Detailed collection command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/JoyBot%20Examples/Detailed%20spawn%20collection.png)
     - Users can race to find 'Challenge Spawns' - a randomly selected spawn that rewards users with 'Challenge Points' when found <br>
-    ![Challenge spawns and points](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/JoyBot%20examples/Challenge%20spawns%20and%20points.png)
+    ![Challenge spawns and points](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/JoyBot%20Examples/Challenge%20spawns%20and%20points.png)
   - A truth or dare game
   - A fun fact command
   - A fishing command
