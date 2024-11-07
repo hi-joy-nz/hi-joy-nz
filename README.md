@@ -6,8 +6,7 @@
 
 
 ## Contact & about me
-- My [Discord](https://discord.com/users/524064761525305344)
-- My [Pronouns.page](https://en.pronouns.page/@hi.joy)
+- Find all the details on [my site](https://hi-joy-nz.github.io/)
 
 ## Projects
 ### JoyBot (Python)
