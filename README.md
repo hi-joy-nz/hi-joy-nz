@@ -39,30 +39,30 @@ See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/Jo
   - A currency system
     - Users can earn and spend a currency from a balance stored in an external file
     - (Work in progress) Store and purchasing system with real-time store updates, with all store information managed with an external JSON file <br>
-  ![Balance command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Points%20balance.png)
+  ![Balance command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20Examples/Points%20balance.png)
   - A complete ticketing system
     - Users can create a private channel with staff, and are able to add extra users into the ticket
   - Pokémon collecting game
     - Every 2 minutes, users can spawn a random Pokémon
       - Pokémon are spawned based on the area the user selected, and the rarity of the Pokémon
       - All Pokémon have a small chance to be [shiny](https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon), which is influenced by their rarity; with rarer Pokémon having a higher chance to be shiny <br>
-  ![Example encounter](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20spawn%20(city).png)
+  ![Example encounter](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20Examples/Pokemon%20spawn%20(city).png)
     - Users can view their collection <br>
-    ![Collection](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20collection%20(page%201).png)
+    ![Collection](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20Examples/Pokemon%20collection%20(page%201).png)
       - They can also apply certain filters <br>
-      ![Collection with shiny filter](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20collection%20(shiny).png)
+      ![Collection with shiny filter](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20Examples/Pokemon%20collection%20(shiny).png)
     - Users can view the Pokémon that spawn in a specified area, sorted by rarity <br>
-    ![Spawns in volcano area](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20spawns%20(volcano).png)
+    ![Spawns in volcano area](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20Examples/Pokemon%20spawns%20(volcano).png)
     - Users can view details about a Pokémon they have caught <br>
-    ![Info panel](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Pokemon%20info%20(1).png)
+    ![Info panel](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20Examples/Pokemon%20info%20(1).png)
   - An about user command
     - Gets and displays data about a provided user from the Discord API <br>
-    ![About command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/About%20user.png)
+    ![About command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20Examples/About%20user.png)
   - A Spotify search command
     - Searches Spotify's API for a term and provides details about the top result <br>
-    ![Spotify search command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Spotify%20search.png)
+    ![Spotify search command](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20Examples/Spotify%20search.png)
   - A random colour generator <br>
-  ![Random colour generator](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20examples/Random%20colour%20(1).png)
+  ![Random colour generator](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/Examples/SafeBot%20Examples/Random%20colour%20(1).png)
   - Moderation commands
     - Mute, unmute, and slowmode control commands
 - Safebot's commands: Public
@@ -97,7 +97,7 @@ See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/Jo
 - SafeBot is still being developed, and will be hosted on my Raspberry Pi for use in my public Discord server
 - SafeBot is made with [discord.py](https://discordpy.readthedocs.io/en/stable/)
 
-See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/SafeBot%20examples) of SafeBot being used
+See [more examples](https://github.com/hi-joy-nz/hi-joy-nz/tree/main/Examples/SafeBot%20Examples) of SafeBot being used
 
 
 *[Return to table of contents](https://github.com/hi-joy-nz/hi-joy-nz/blob/main/README.md#table-of-contents)*## Hi there 👋
